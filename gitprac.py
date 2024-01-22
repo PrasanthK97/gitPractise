@@ -1,3 +1,3 @@
 print("Hello World")
 
-print("Another world is added")
+print("A new world is added")
